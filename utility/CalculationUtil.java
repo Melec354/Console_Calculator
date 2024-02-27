@@ -120,4 +120,5 @@ public class CalculationUtil {
                 return 0;
         }
     }
+
 }

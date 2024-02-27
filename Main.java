@@ -23,7 +23,9 @@ public class Main {
             printMessage(toDecimalFormat(result));
 
         } catch (IllegalArgumentException exception) {
+
             printMessage("something gone wrong: " + exception.getMessage());
+
         }
     }
 }
